@@ -1,0 +1,79 @@
+
+body {
+	color:white;
+	font-family:"Luicida Sans";
+	background-image: url('kepek/background.jpeg');
+	background-attachment: fixed;
+	font-size: 1.2em;
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+header {
+	background-repeat: no-repeat;
+	background-image: url("kepek/logofooter.jpg");
+	background-size:cover;
+	height: 300px;
+	width: 100%;
+	background-position: center;
+	background-size: cover;
+}
+
+
+
+
+
+
+header h1 {
+	padding:30px 0;
+	text-align: center;
+	color: rgb(200, 187, 249);
+}
+
+h2 {
+	color: rgb(200, 187, 249);
+	letter-spacing:2px;
+	font-weight: bold;
+}
+
+h1 {
+	color: rgb(38, 15, 207);
+	font-size: 25px;
+}
+
+.kep {
+	margin:10px;
+	max-width: 40%;
+	float: left;
+}
+
+#masodik {
+	width:400px;
+	text-align:center;
+	margin:10px;
+	border:2px solid white;
+}
+
+.kozep {
+	text-align:center;
+}
+
+footer {
+	text-align: center;
+	background-color: rgb(29, 38, 155);
+	margin: 10px 0;
+}
+
+a,a:hover, a:visited {
+	color:white;
+}
+
+p {
+	text-align: justify;
+}
+
+#jarmupark {
+	list-style-type: square;
+}
